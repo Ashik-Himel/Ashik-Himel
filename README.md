@@ -9,13 +9,16 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashik-Himel?tab=repositories](https://github.com/Ashik-Himel?tab=repositories)
 
-- 🌱 I’m currently learning **Data Structure & Algorithm**
+- 🌍 My LinekdIn profile [https://www.linkedin.com/in/ashik-himel](https://www.linkedin.com/in/ashik-himel)
+
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 📫 You can reach me via **ashikujjamanhimel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/ashikujjaman.himel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashikujjaman.himel" height="30" width="40" /></a>
+<a href="https://wa.me/+8801770473899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Ashikujjaman Himel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashik-himel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashik-himel" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ashik_himel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ashik_himel" height="30" width="40" /></a>
 <a href="https://twitter.com/@ah_ashik_himel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ah_ashik_himel" height="30" width="40" /></a>
