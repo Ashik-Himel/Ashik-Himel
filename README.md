@@ -1,5 +1,5 @@
 ![Banner](banner.png)
-# <p align="center">Hi👋, &nbsp;I'm Ashik-Himel 👨‍💻</p>  
+# <p align="center">Hi👋, &nbsp;I'm Ashik-Himel 👨‍💻</p>
 ### <p align="center">MERN Stack Developer | Competitive Programmer</p>
 <br />
 
