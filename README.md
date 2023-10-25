@@ -61,13 +61,15 @@
     <tr>
       <td>Brand Shop</td>
       <td>
-      
+
   * Cart functionality based on user
   * Products and categories load from database
   * User login and register
   * Private route pages</td>
 
-      <td><a href="https://brand-shop-1.web.app" target="_blank">Link</a></td>
+<td>
+<a href="https://brand-shop-1.web.app" target="_blank">Link</a>
+</td>
     </tr>
     <tr>
       <td>Dragon News</td>
@@ -76,19 +78,19 @@
   * News load dynamically from json file
   * News based on category
   * User login and register
-  * Private route pages</td>
+  * Private route pages
+      </td>
 
-      <td><a href="https://react-dragon-news.netlify.app" target="_blank">Link</a></td>
-    </tr>
+    <td><a href="https://react-dragon-news.netlify.app" target="_blank">Link</a></td>
+  </tr>
     
   </tbody>
 </table>
 <br/><br/>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashik-himel&show_icons=true&locale=en" alt="ashik-himel" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashik-himel&show_icons=true&locale=en&layout=compact" alt="ashik-himel" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ashik-himel&show_icons=true&locale=en" alt="ashik-himel" /></p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashik-himel&" alt="ashik-himel" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashik-himel&show_icons=true&locale=en&layout=compact" alt="ashik-himel" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashik-himel&" alt="ashik-himel" /></p>
