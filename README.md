@@ -53,7 +53,7 @@
   <thead align="center">
     <tr border: none;>
       <td><b>Project Name</b></td>
-      <td><b>Description</b></td>
+      <td><b>Project Features</b></td>
       <td><b>Preview</b></td>
     </tr>
   </thead>
