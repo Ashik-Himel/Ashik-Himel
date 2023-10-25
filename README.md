@@ -16,7 +16,7 @@
 
 ## 🌐 Important Links
 <a href='https://ashik-himel.github.io' target="_blank"><img alt='googlechrome' src='https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=googlechrome&logoColor=dd5144&labelColor=FFFFFF&color=dd5144'/></a>
-<a href='https://www.linkedin.com/ashik-himel' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=0072b1&labelColor=FFFFFF&color=0072b1'/></a>
+<a href='https://www.linkedin.com/in/ashik-himel' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=0072b1&labelColor=FFFFFF&color=0072b1'/></a>
 <a href='https://github.com/Ashik-Himel' target="_blank"><img alt='Github' src='https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=Github&logoColor=000000&labelColor=FFFFFF&color=000000'/></a>
 <a href='https://www.facebook.com/ashikujjaman.himel' target="_blank"><img alt='Facebook' src='https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=Facebook&logoColor=4267B2&labelColor=FFFFFF&color=4267B2'/></a>
 <a href='mailto:ashikujjamanhimel@gmail.com' target="_blank"><img alt='mailgun' src='https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=mailgun&logoColor=F06B66&labelColor=FFFFFF&color=F06B66'/></a>
