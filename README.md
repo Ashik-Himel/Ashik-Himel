@@ -1,6 +1,6 @@
 ![Banner](banner.png)
-# <div align="center">Hi👋, &nbsp;I'm Ashik-Himel 👨‍💻</div>  
-### <div align="center">MERN Stack Developer | Competitive Programmer</div>
+# <p align="center">Hi👋, &nbsp;I'm Ashik-Himel 👨‍💻</p>  
+### <p align="center">MERN Stack Developer | Competitive Programmer</p>
 <br />
 
 [![](https://visitcount.itsvg.in/api?id=Ashik-Himel&icon=7&color=1)](https://visitcount.itsvg.in)
