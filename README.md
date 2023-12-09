@@ -1,9 +1,10 @@
 ![Banner](banner.png)
 <h1 align="center">Hi👋, &nbsp;I'm Ashik-Himel 👨‍💻</h1>
 <h3 align="center">MERN Stack Developer | Competitive Programmer</h3>
-<br /><br />
+<p>Hello, I am Ashikujjaman Himel from Dhaka, Bangladesh. I am a MERN Stack Developer and a Competitive Programmer. I am studying in B.Sc. in CSE in Uttara University. I use React, Firebase, Node JS, Express JS, MongoDB and so on to develope full-stack application. Also I use C, C++ and Python in competitive programming. My aim to be a software engineer!</p>
+<br />
 
-[![](https://visitcount.itsvg.in/api?id=Ashik-Himel&icon=7&color=1)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Ashik-Himel&icon=7&color=1)
 <br />
 
 ![](https://github-profile-trophy.vercel.app/?username=Ashik-Himel&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
@@ -29,13 +30,15 @@
 <br />
 
 ## 👨‍💻 Top Projects
-| **Project Name** | **Project Features**                                                                                                            | **Repository**                                              | **Preview**                                         |
-|------------------|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------|
-| Brand Shop       | Cart functionality based on user, Products and categories load from database, User login and register, Private route pages | [Repo Link](https://github.com/Ashik-Himel)                 | [Live Link](https://brand-shop-1.web.app/)          |
-| Dragon News      | News load dynamically from json file, News based on category, User login and register, Private route pages                 | [Repo Link](https://github.com/Ashik-Himel/the-dragon-news) | [Live Link](https://react-dragon-news.netlify.app/) |
+| **Project Name** |                                                                                                                                                                                               **Project Description**                                                                                                                                                                                              |      **Repository**     | **Live Preview** |
+|:----------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------:|:----------------:|
+|    CircleSync    | CircleSync is a full-stack forum platform. In this platform, user can give like/dislike, can write comment and can share post. User can also write post, see his/her post's comments, report comments and so on. An admin can review reported comments, can make a user to admin and make announcement in this platform. For more details, visit [project repository](https://github.com/Ashik-Himel/circle-sync-client).                                           | [Client Side](https://github.com/Ashik-Himel/circle-sync-client) [Server Side](https://github.com/Ashik-Himel/circle-sync-server) |       [Visit](https://circle-sync-1.web.app)      |
+|     StudyHub     | StudyHub is a full-stack group-study based platform. In this platform, a group of friends can join and anybody can make assignment for all. Anybody can take an assignment from created assignment and submit the answer sheet on it. Other friends can be give mark to this submitted solution and the friend will be notified who was submitted that assignment. For more details, visit the [project repository](https://github.com/Ashik-Himel/study-hub-client). | [Client Side](https://github.com/Ashik-Himel/study-hub-client) [Server Side](https://github.com/Ashik-Himel/study-hub-server) |       [Visit](https://study-hub-1.web.app)      |
+|    Brand Shop    | Brand Shop is a full-stack eCommerce type website. People can see product and it prices based on category. Also, he/she can see the product details in the product details page. If he/she wants to buy the product, he can add this product to the cart. Admin can add product in this website. For more details, visit the [project repository](https://github.com/Ashik-Himel/brand-shop-client).                                                                   | [Client Side](https://github.com/Ashik-Himel/brand-shop-client) [Server Side](https://github.com/Ashik-Himel/brand-shop-server) |       [Visit](https://brand-shop-1.web.app)      |
 <br/>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ashik-Himel&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ashik-Himel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashik-Himel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashik-Himel&theme=midnight_purple)<br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=Ashik-Himel&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashik-Himel&theme=midnight_purple) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashik-Himel&theme=midnight_purple)
