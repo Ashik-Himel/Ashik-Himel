@@ -1,7 +1,7 @@
 ![Banner](banner.png)
 <h1 align="center">Hi👋, &nbsp;I'm Ashik-Himel 👨‍💻</h1>
 <h3 align="center">MERN Stack Developer | Competitive Programmer</h3>
-<p>Hello, I am Ashikujjaman Himel from Dhaka, Bangladesh. I am a MERN Stack Developer and a Competitive Programmer. I am studying in B.Sc. in CSE in Uttara University. I use React, Firebase, Node JS, Express JS, MongoDB and so on to develope full-stack application. Also I use C, C++ and Python in competitive programming. My aim to be a software engineer!</p>
+<p>Hello, I am Ashikujjaman Himel from Dhaka, Bangladesh. I am a MERN Stack Developer and a Competitive Programmer. I am studying in B.Sc. in CSE at Uttara University. I am skilled in HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.js, Next.js, Firebase, Node.js, Express.js, MongoDB and so on. Those technologies help me to develop full-stack applications. Also, I am skilled in C, C++, Python and Java. I am using those languages to do competitive programming. I am a technology enthusiast and continuously learning new technologies.</p>
 <br />
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=Ashik-Himel&icon=7&color=1)
@@ -28,11 +28,11 @@
 ## 🚀 Skills
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![React JS](https://img.shields.io/badge/React_JS-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![React.js](https://img.shields.io/badge/React.js-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)
 ![Node JS](https://img.shields.io/badge/Node_JS-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express JS](https://img.shields.io/badge/Express_JS-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
@@ -41,7 +41,6 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
 ![GithubPages](https://img.shields.io/badge/Github_Pages-121013?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
@@ -50,12 +49,34 @@
 <br />
 
 ## 👨‍💻 Top Projects
-| **Project Name** |                                                                                                                                                                                               **Project Description**                                                                                                                                                                                              |      **Repository**     | **Live Preview** |
-|:----------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------:|:----------------:|
-|    CircleSync    | CircleSync is a full-stack forum platform. In this platform, user can give like/dislike, can write comment and can share post. User can also write post, see his/her post's comments, report comments and so on. An admin can review reported comments, can make a user to admin and make announcement in this platform. For more details, visit [project repository](https://github.com/Ashik-Himel/circle-sync-client).                                           | [Client Side](https://github.com/Ashik-Himel/circle-sync-client) [Server Side](https://github.com/Ashik-Himel/circle-sync-server) |       [Visit](https://circle-sync-1.web.app)      |
-|     StudyHub     | StudyHub is a full-stack group-study based platform. In this platform, a group of friends can join and anybody can make assignment for all. Anybody can take an assignment from created assignment and submit the answer sheet on it. Other friends can be give mark to this submitted solution and the friend will be notified who was submitted that assignment. For more details, visit the [project repository](https://github.com/Ashik-Himel/study-hub-client). | [Client Side](https://github.com/Ashik-Himel/study-hub-client) [Server Side](https://github.com/Ashik-Himel/study-hub-server) |       [Visit](https://study-hub-1.web.app)      |
-|    Brand Shop    | Brand Shop is a full-stack eCommerce type website. People can see product and it prices based on category. Also, he/she can see the product details in the product details page. If he/she wants to buy the product, he can add this product to the cart. Admin can add product in this website. For more details, visit the [project repository](https://github.com/Ashik-Himel/brand-shop-client).                                                                   | [Client Side](https://github.com/Ashik-Himel/brand-shop-client) [Server Side](https://github.com/Ashik-Himel/brand-shop-server) |       [Visit](https://brand-shop-1.web.app)      |
-<br/>
+### 🚀 CircleSync - A Full Stack Forum Platform
+[Live Site](https://circle-sync-1.web.app) | [Client Repo](https://github.com/Ashik-Himel/circle-sync-client) | [Server Repo](https://github.com/Ashik-Himel/circle-sync-server) <br />
+24 Nov, 2023 - 30 Nov, 2023
+
+CircleSync is a full-stack forum platform where users can add posts in some categories, can like/dislike, comment, and share a post. An admin can add announcements for the users. A normal user can add up to 5 posts. To become a gold user to add unlimited posts, the user has to pay 1000 taka with stripe payment. Users can delete their posts, can see their posts' comments in the user dashboard, and can report any comment. Admin will review it and can delete the comment or reject the report. An admin can make a user admin, add announcements, can control reported comments.<br />
+For more details about this project, visit the [project repository](https://github.com/Ashik-Himel/circle-sync-client).
+
+### 🚀 Study Hub - A Full Stack Group Study Platform
+[Live Site](https://study-hub-1.web.app) | [Client Repo](https://github.com/Ashik-Himel/study-hub-client) | [Server Repo](https://github.com/Ashik-Himel/study-hub-server) <br />
+05 Nov, 2023 - 08 Nov, 2023
+
+Study Hub is a full-stack group study platform where users can choose an assignment, and submit this assignment in pdf format within the deadline. Other users can review those submitted assignments and can give marks and feedback on the submitted assignment and those who submitted this assignment can view this feedback and marks. Also, users can create assignments for other users.<br />
+For more details about this project, visit the [project repository](https://github.com/Ashik-Himel/study-hub-client).
+
+### 🚀 Brand Shop - A Frontend eCommerce Website
+[Live Site](https://brand-shop-1.web.app) | [Client Repo](https://github.com/Ashik-Himel/brand-shop-client) | [Server Repo](https://github.com/Ashik-Himel/brand-shop-server) <br />
+17 Oct, 2023 - 30 Oct, 2023
+
+Brand Shop is a frontend e-commerce Website where users can see available products based on the product category. Users can view product details, can add products to their cart. They can remove the cart items. Also, users can add products to this platform.<br />
+For more details about this project, visit the [project repository](https://github.com/Ashik-Himel/brand-shop-client).
+
+### 🚀 The Dragon News - A Frontend Newspaper Website
+[Live Site](https://react-dragon-news.netlify.app) | [Project Repo](https://github.com/Ashik-Himel/the-dragon-news) <br />
+04 Oct, 2023 - 13 Oct, 2023
+
+The Dragon News is a front-end newspaper website where users can log in or register with email and password, google authentication, and GitHub authentication. Users can see the latest news on a marquee. They can filter news based on categories and can view the news details.<br />
+For more details about this project, visit the [project repository](https://github.com/Ashik-Himel/the-dragon-news).
+<br />
 
 ## 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashik-Himel&theme=midnight_purple)<br/>
