@@ -74,8 +74,7 @@ For more details about this project, visit the [project repository](https://gith
 [Live Site](https://react-dragon-news.netlify.app) | [Project Repo](https://github.com/Ashik-Himel/the-dragon-news) <br />
 04 Oct, 2023 - 13 Oct, 2023
 
-The Dragon News is a front-end newspaper website where users can log in or register with email and password, google authentication, and GitHub authentication. Users can see the latest news on a marquee. They can filter news based on categories and can view the news details.<br />
-For more details about this project, visit the [project repository](https://github.com/Ashik-Himel/the-dragon-news).
+The Dragon News is a front-end newspaper website where users can log in or register with email and password, google authentication, and GitHub authentication. Users can see the latest news on a marquee. They can filter news based on categories and can view the news details.
 <br />
 
 ## 📊 GitHub Stats:
